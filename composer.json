@@ -1,5 +1,5 @@
 {
-  "name": "effectconnect/php-sdk",
+  "name": "servexs/effectconnect-php-sdk",
   "license": "proprietary",
   "description": "Our PHP SDK for basic API integration",
   "keywords": [
